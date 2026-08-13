@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Abrar</h1>
+<h1 align="center">Hi, I'm Ibrahim Abrar</h1>
 <h3 align="center">🚀 MERN Stack Developer | Passionate About Building Scalable Web Applications</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT ME
 
 💻 MERN Stack Developer passionate about creating fast, scalable, and user-friendly web applications.
 
