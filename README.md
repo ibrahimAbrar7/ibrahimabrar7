@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Stack Developer | Passionate About Building Scalable Web Applications</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Modern+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=950&lines=I+Build+Websites+That+Help+Businesses+Grow;Professional+Business+Websites+Tailored+to+Your+Brand;Fast%2C+Modern+%26+Responsive+Business+Websites;Transforming+Business+Ideas+into+Powerful+Web+Experiences;Available+for+Freelance+Projects+Worldwide+🌍" alt="Typing SVG" />
 </p>
 
 ---
