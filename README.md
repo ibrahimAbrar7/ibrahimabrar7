@@ -9,20 +9,25 @@ Full-Stack MERN Developer • Building High-Performance Websites & Web Applicati
 </p>
 
 ---
+## 📬 Contact Me
 
-## 👨‍💻 About Me
+<p align="center">
+  <a href="mailto:mohdabrar41111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+918919427696">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://github.com/ibrahimAbrar7" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-💼 Freelance **Full-Stack MERN Developer** specializing in modern, scalable, and high-performance web applications.
-
-🚀 I help startups, entrepreneurs, and businesses build fast, responsive, and user-friendly digital experiences.
-
-⚡ Passionate about writing clean, maintainable, and efficient code that delivers real business value.
-
-🌱 Currently expanding my expertise in **AI, Cloud Computing, and System Design**.
-
-🎯 Committed to building products that are visually appealing, performance-focused, and easy to maintain.
-
----
+<p align="center">
+  📧 <strong>Email:</strong> <a href="mailto:mohdabrar41111@gmail.com">mohdabrar41111@gmail.com</a><br>
+  📱 <strong>Phone:</strong> <a href="tel:+918919427696">+91 89194 27696</a><br>
+  💻 <strong>GitHub:</strong> <a href="https://github.com/ibrahimAbrar7">github.com/ibrahimAbrar7</a>
+</p>
 
 ## 🛠️ Tech Stack
 
