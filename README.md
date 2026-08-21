@@ -1,27 +1,17 @@
-<h1 align="center">Hi 👋, I'm Ibrahim Abrar</h1>
-
-<h3 align="center">
-Full-Stack MERN Developer • Building High-Performance Websites & Web Applications for Businesses
-</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=900&lines=I+Build+Professional+Websites+for+Businesses;Helping+Businesses+Grow+with+Modern+Web+Solutions;Fast%2C+Responsive+%26+SEO-Friendly+Websites;Custom+Web+Applications+Built+for+Success;Available+for+Freelance+Projects+Worldwide+%F0%9F%9A%80" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:A855F7&height=130&section=header&text=Ibrahim%20Abrar&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Websites%20That%20Help%20Businesses%20Grow&descAlignY=58" />
 </p>
 
----
----
+# Contact
+### 📱 Phone:  **+91 89194 27696**
+### 📧 Email:  **[mohdabrar41111@gmail.com](mailto:mohdabrar41111@gmail.com)**
 
-# 📬 Contact Me
 
-## 📧 Email: mohdabrar41111@gmail.com
-
-## 📱 Phone: +91 89194 27696
-
-### 🚀 Available for Freelance Projects Worldwide
+### 🚀 Freelance : **Available for Freelance Projects Worldwide**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,postgres,firebase,redux,tailwind,bootstrap,git,github,vscode,npm,vercel,netlify&perline=7" />
